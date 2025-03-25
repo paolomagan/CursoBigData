@@ -1,0 +1,19 @@
+2.
+Entrada: n1 n2
+Salida: resultado
+
+3.
+Entrada: frase
+Salida: na
+
+4.
+Entrada: n1
+Salida: par / impar
+
+5.
+Entrada: n1
+Salida: Dígitos
+
+6.
+Entrada: user pass intentos espera
+Salida: ok // error
