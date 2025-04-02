@@ -1,0 +1,18 @@
+{
+    "arrayColores":[
+        {
+            "nombre": "rojo",
+            "valor": "#f00"
+        }
+        {
+            "nombre": "Verde",
+            "valor": "#0f0"
+        }
+    ]
+}
+
+a["arrayColores"][0]["nobre"] --> rojo
+a["arrayColores"][1]["valor"] --> #0f0
+
+añadir o modificar
+a["arrayColores"][1]["valor"] = "#1f1"

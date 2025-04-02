@@ -1,0 +1,133 @@
+2025.03.31 16:31:25 INFO  Started: Metals version 1.5.2 in folders 'C:\Users\Pablo\Desktop\Json Ejemplo' for client Visual Studio Code 1.98.2.
+2025.03.31 16:31:26 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:31:31 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:32:23 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:32:23 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt
+2025.03.31 16:32:23 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:32:25 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 16:33:46 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+mar 31, 2025 4:34:31 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.03.31 16:35:47 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:35:47 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/src/main/scala/JsonEjemplo.scala
+2025.03.31 16:36:30 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala
+2025.03.31 16:36:30 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:36:30 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/src/main/scala/JsonEjemplo.scala
+2025.03.31 16:36:31 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:36:31 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:36:32 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:36:33 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:36:33 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala
+2025.03.31 16:36:34 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:48:44 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:48:44 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt
+2025.03.31 16:48:44 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:48:44 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:48:44 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 16:50:39 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:50:39 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala
+2025.03.31 16:50:39 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:50:39 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:50:42 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt
+2025.03.31 16:50:42 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:50:42 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:50:42 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 16:50:42 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:51:13 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:51:13 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala
+2025.03.31 16:51:13 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:51:13 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:52:36 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:52:36 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala
+2025.03.31 16:52:36 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:52:36 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:52:38 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt
+2025.03.31 16:52:38 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:52:38 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:52:38 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 16:52:38 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:54:41 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:55:39 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:55:39 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:55:39 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:55:40 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:55:40 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:55:40 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:55:41 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:55:41 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 16:55:41 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:55:41 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt
+2025.03.31 16:55:41 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:55:41 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 16:55:51 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:56:24 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:56:26 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:56:26 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:56:26 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:56:27 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:56:27 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 16:56:52 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:03:38 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:03:38 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt
+2025.03.31 17:03:38 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:03:38 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 17:03:38 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:05:17 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:05:17 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:05:38 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:17 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt
+2025.03.31 17:07:17 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:17 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:17 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 17:07:17 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:29 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt
+2025.03.31 17:07:29 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:29 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:29 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 17:07:29 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:38 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:38 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:38 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:40 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:40 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:40 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:40 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 17:07:43 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:43 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt
+2025.03.31 17:07:43 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:07:43 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 17:08:05 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala
+2025.03.31 17:08:05 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:08:05 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:08:05 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:08:07 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:08:10 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:08:34 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:08:55 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:08:55 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/src/main/scala/LeerJSON.scala
+2025.03.31 17:09:07 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:09:07 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:09:07 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:09:08 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:09:12 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:09:12 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:09:26 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:09:26 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+mar 31, 2025 5:09:27 P. M. scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\Pablo\Desktop\Json Ejemplo\.metals\.reports\metals-full\2025-03-31\r_empty-definition_17-09-27-332.md)
+2025.03.31 17:09:27 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala
+2025.03.31 17:09:27 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:09:57 INFO  no build target found for c:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\JsonEjemplo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:09:57 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:11:06 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:11:08 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:11:08 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:11:10 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\src\main\scala\LeerJSON.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:11:15 WARN  no build target for: C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt
+2025.03.31 17:11:15 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:11:15 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 17:11:15 WARN  Could not find semantic tokens for: file:///C:/Users/Pablo/Desktop/Json%20Ejemplo/build.sbt
+2025.03.31 17:11:15 INFO  no build target found for C:\Users\Pablo\Desktop\Json Ejemplo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.03.31 19:11:26 INFO  Shutting down server
+2025.03.31 19:11:26 INFO  shutting down Metals
+2025.03.31 19:11:26 INFO  Exiting server

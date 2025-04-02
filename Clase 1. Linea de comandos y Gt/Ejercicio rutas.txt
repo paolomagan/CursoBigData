@@ -1,0 +1,32 @@
+Estando en B acceder a b.txt usando ruta relativa
+c/b.txt
+
+Estando en C acceder a F usando ruta absoluta
+cd a/d/e/f
+
+Estando en F acceder a A usando ruta relativa
+cd ../../..
+
+Estando en D acceder a c.txt usando ruta absoluta
+a/b/c/c.txt
+
+Estando en C acceder a a.txt usando ruta abosulta
+a/d/e/f/a.txt
+
+Estando en C acceder a a.txt usando ruta relativa
+d/e/f/a.txt
+
+Estabdo en E acceder a E usando ruta absoluta
+cd a/d/e
+
+Estabdo en E acceder a E usando ruta relativa
+cd .
+
+Estabdo en E acceder a D usando ruta relativa
+cd ..
+
+Estabdo en E acceder a F usando ruta relativa
+
+
+Estabdo en E acceder a F usando ruta absoluta
+
